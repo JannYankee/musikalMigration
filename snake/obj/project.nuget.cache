@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MEPuv55wNA=",
+  "success": true,
+  "projectFilePath": "D:\\ШАГ\\Slovnik\\Slovnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rudzi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

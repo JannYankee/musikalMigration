@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\lastTRY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\etities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:etities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\etities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:etities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\etities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:etities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\etities\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:etities\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\migrations\\musicappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:migrations\\musicappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\musicappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:musicappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\migrations\\20250324035320_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:migrations\\20250324035320_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|d:\\\u0448\u0430\u0433\\lasttry\\lasttry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{801DC635-7E74-4B88-A0B8-176D9B88704D}|lastTRY.csproj|solutionrelative:lasttry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicAppContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Migrations\\MusicAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MusicAppContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Migrations\\MusicAppContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MusicAppContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:55:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicAppContext.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\MusicAppContext.cs",
+              "RelativeDocumentMoniker": "MusicAppContext.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\MusicAppContext.cs",
+              "RelativeToolTip": "MusicAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:46:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Album.cs",
+              "RelativeDocumentMoniker": "Etities\\Album.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Album.cs",
+              "RelativeToolTip": "Etities\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:51:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250324035320_newMigration.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Migrations\\20250324035320_newMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250324035320_newMigration.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Migrations\\20250324035320_newMigration.cs",
+              "RelativeToolTip": "Migrations\\20250324035320_newMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:53:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Track.cs",
+              "RelativeDocumentMoniker": "Etities\\Track.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Track.cs",
+              "RelativeToolTip": "Etities\\Track.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:51:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Playlist.cs",
+              "RelativeDocumentMoniker": "Etities\\Playlist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Playlist.cs",
+              "RelativeToolTip": "Etities\\Playlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:59:53.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Artist.cs",
+              "RelativeDocumentMoniker": "Etities\\Artist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Etities\\Artist.cs",
+              "RelativeToolTip": "Etities\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:59:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:46:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "PlaylistService.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\PlaylistService.cs",
+              "RelativeToolTip": "PlaylistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:46:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lastTRY",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\lastTRY\\lastTRY.csproj",
+              "RelativeDocumentMoniker": "lastTRY.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\lastTRY\\lastTRY.csproj",
+              "RelativeToolTip": "lastTRY.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T02:53:26.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1847,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

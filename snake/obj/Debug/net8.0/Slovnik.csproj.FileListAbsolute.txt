@@ -1,0 +1,14 @@
+D:\ШАГ\Slovnik\bin\Debug\net8.0\Slovnik.exe
+D:\ШАГ\Slovnik\bin\Debug\net8.0\Slovnik.deps.json
+D:\ШАГ\Slovnik\bin\Debug\net8.0\Slovnik.runtimeconfig.json
+D:\ШАГ\Slovnik\bin\Debug\net8.0\Slovnik.dll
+D:\ШАГ\Slovnik\bin\Debug\net8.0\Slovnik.pdb
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.AssemblyInfoInputs.cache
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.AssemblyInfo.cs
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.csproj.CoreCompileInputs.cache
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.dll
+D:\ШАГ\Slovnik\obj\Debug\net8.0\refint\Slovnik.dll
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.pdb
+D:\ШАГ\Slovnik\obj\Debug\net8.0\Slovnik.genruntimeconfig.cache
+D:\ШАГ\Slovnik\obj\Debug\net8.0\ref\Slovnik.dll
